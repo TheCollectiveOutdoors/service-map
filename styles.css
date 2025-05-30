@@ -1,0 +1,18 @@
+    body {
+      font-family: manrope;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    header {
+      background-color: #f4f4f4;
+      padding: 20px;
+    }
+    h1 {
+      margin: 0;
+      font-size: 2em;
+    }
+    iframe {
+      border: none;
+      margin-top: 0;
+    }
