@@ -1,5 +1,6 @@
-# The Collective Outdoors' & Panther City Arbor and Patio Service Map
-Interactive map of our service and delivery zones as well as the projects we've built in north Texas.
+# The Collective Outdoors' Service Map: Patios We've Built 
+
+Interactive map of our service and delivery zones as well as the projects we've built in north Texas. 
 
 👉 [Click to view The Collective Outdoors' service map](https://www.google.com/maps/d/edit?mid=1mK5zPcRU0iq4ps29Y2fvvGoz0GOFRmY&usp=sharing)
 
